@@ -1,0 +1,115 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+body{
+    background:url("https://www.shiksha.com/college/d-g-ruparel-college-of-arts-science-and-commerce-mahim-mumbai-2487");
+}
+.unorder{
+    display:flex;
+    list-style:none;
+    color:white;
+}
+.unorder li{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.whole-nav div{
+    display:flex;
+}
+
+.whole-nav{
+    background-color: #5b39d4;
+    border: 50px black;
+    padding: 8px;
+    background-attachment: fixed;
+}
+
+.input-text{
+    
+    width:50%;
+    border-style:solid;
+    border-radius:10px;
+    border-color:purple;
+    padding-left:5px;
+}
+
+.input-text:hover{
+    
+    width:70%;
+    border-style:solid;
+    border-radius:5px;
+    background-color:hsl(76, 90%, 80%);
+    transition:3s;
+}
+
+.labeling{
+    color:white;
+}
+
+.testing-list:hover{
+    border-color:black;
+    border-right:1px;
+    padding-top: 5px;
+    background-color: rgb(73, 54, 176);
+    padding-right: 20px;
+}
+
+.testing-list a {
+    color:white;
+    text-decoration:none;
+    padding-right: 20px;
+}
+
+#heading1{
+  text-align: center;
+  font-family: 'Navis'; 
+  font-size: 45px; 
+}
+
+th{
+    padding: 1%;
+    background-color: rgb(245 54 89);
+    
+}
+
+.tables{
+    text-align: center;
+}
+
+h1{
+    padding:20px;
+
+}
+
+.whole-div2{
+    margin:20px;
+}
+
+.form-div{
+    padding-bottom:30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+input{
+    font-size: 14px;
+    /* width: 159px; */
+    /* height: 19px; */
+    border-color: chocolate;
+    padding: 4px;
+    border-radius: 11px;
+    padding-left: 5px;
+}
+
+
+
